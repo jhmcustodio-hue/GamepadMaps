@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: GamepadMaps
+## Notes: Map enhancements and notes that stay safe with the native gamepad UI (WoW Forever).
+## Notes-ptBR: Melhorias de mapa e notas que não quebram a interface nativa de gamepad (WoW Forever).
+## Author: jhmcustodio-hue
+## Version: 0.1.0
+## SavedVariables: GamepadMapsDB
+## IconTexture: Interface\Icons\INV_Misc_Map_01
+
+Locale.lua
+Core.lua
+Pins.lua
+Map.lua
+Bindings.lua

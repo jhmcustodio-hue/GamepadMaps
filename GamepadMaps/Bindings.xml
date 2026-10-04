@@ -1,0 +1,17 @@
+<Bindings>
+    <Binding name="GAMEPADMAPS_ADDNOTE" header="GAMEPADMAPS" category="ADDONS">
+        GamepadMaps_AddNote()
+    </Binding>
+    <Binding name="GAMEPADMAPS_NEXTPIN" category="ADDONS">
+        GamepadMaps_NextPin()
+    </Binding>
+    <Binding name="GAMEPADMAPS_PREVPIN" category="ADDONS">
+        GamepadMaps_PrevPin()
+    </Binding>
+    <Binding name="GAMEPADMAPS_WAYPOINT" category="ADDONS">
+        GamepadMaps_WaypointPin()
+    </Binding>
+    <Binding name="GAMEPADMAPS_DELETEPIN" category="ADDONS">
+        GamepadMaps_DeletePin()
+    </Binding>
+</Bindings>
